@@ -282,5 +282,4 @@ Or, build the application to generate the .jar file, navigate to the folder wher
      <img src="https://contrib.rocks/image?repo=vijcoelho/java" />
  </a>
 </div>
-<br>
 Made with [contrib.rocks](https://contrib.rocks).
