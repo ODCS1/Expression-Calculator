@@ -1,0 +1,31 @@
+# IGNORE BUILD FILES
+/build/
+/out/
+*.class
+
+# IGNORE IDE-SPECIFIC SETTINGS
+# INTELLIJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+# IGNORE LOG FILES
+*.log
+
+# IGNORE SYSTEM-SPECIFIC FILES
+.DS_Store
+Thumbs.db
+
+# IGNORE TEMPORARY FILES
+*.tmp
+*.temp
+*.swp
+*~
+
+# IGNORE MAVEN CACHE
+.mvn/
+
+# IGNORE DOWNLOADED DEPENDENCIES
+target/
